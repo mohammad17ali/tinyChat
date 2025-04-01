@@ -1,0 +1,2 @@
+# tinyChat
+A simple RAG powered chatbot, built on TinyLlama 1.1B, using FAISS for similarity search in the vector database. 
